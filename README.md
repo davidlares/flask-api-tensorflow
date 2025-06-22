@@ -37,7 +37,7 @@ You can also refer to the `requirements.txt` to check the framework version used
 
 ## Usage
 
-The full setup could be done with Docker Compose service, please refer to the `docker-compose.yaml` file in the root location to see which services are running.
+The full setup could be done with the Docker Compose service. Please refer to the `docker-compose.yaml` file in the root location to see which services are running.
 
 Each module (or folder) will represent a layer in the full stack setup
 
@@ -49,7 +49,7 @@ The `app.py` is the main script of the project; you can replace the content with
 
 
 ## Credits
-[David Lares S](https;//twitter.com/davidlares3)
+[David Lares S](https://davidlares.com)
 
 ## License
 [MIT](https://opensource.org/licenses/MIT)
